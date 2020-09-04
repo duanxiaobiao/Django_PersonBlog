@@ -1,0 +1,5 @@
+Django==2.1.8
+django-cors-headers==3.4.0
+Pillow==7.2.0
+PyMySQL==0.9.3
+pytz==2020.1
